@@ -136,6 +136,7 @@
 (require 'seq)
 (require 'subr-x)
 
+(require 'compat-29) ; pos-eol
 (require 'dash)
 (require 's)
 
